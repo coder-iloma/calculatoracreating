@@ -1,0 +1,31 @@
+h1{
+	text-align: center;
+}
+
+.inputfields{
+	text-align: center;
+	font-weight: bold;
+}
+
+.buttons{
+	font-weight: bold;
+	text-align: center;
+}
+
+#outputfield{
+	font-weight: bolder;
+	text-align: center;
+}
+
+body{
+	border-radius: 20px;
+	padding-bottom: 25px;
+	margin-left: 25%;
+	margin-right: 25%;
+	border: 2px solid black;
+}
+
+footer{
+	font-size: 10px;
+	text-align: right;
+}
