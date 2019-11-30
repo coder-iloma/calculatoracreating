@@ -23,7 +23,7 @@ function div(){
 		document.getElementById('outputfield').innerHTML=outputfield;
 	}
 function clr(){
-		var outputfield=document.getElementById('outputfield').innerHTML="";
+		var outputfield=document.getElementById('outputfield').innerHTML="Output goes here...";
 		var input1= document.getElementById('input1').value="";
 		var input2= document.getElementById('input2').value="";
 	}
